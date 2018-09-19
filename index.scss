@@ -1,0 +1,24 @@
+body {
+  background-color: teal;
+  text-align: center;
+}
+
+#topic {
+  border: 2px solid black;
+}
+
+#topic:focus {
+  background-color: gray;
+}
+
+#topic_submit {
+  background-color: #4CAF50;
+  text-align: center;
+  text-decoration: none;
+  // display: inline-block;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+}
